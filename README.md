@@ -6,11 +6,11 @@ All the code for this project is in Waste sorter.ipynb.
 
 ## How to view this project
 
-The notebook is too big to render on Github, which is why we have to use a different site to render it.
+The notebook is too big to render on Github, which is why we have to use Jupyter Notebook Viewer to render it. Start with option (a) and if the link doesn't work, use option (b).
 
 ### Option (a) 
 
-Click [here](https://nbviewer.jupyter.org/github/collindching/Waste-Sorter/blob/master/Waste%20sorter.ipynb). Go to the next option if this link doesn't work.
+Click [here](https://nbviewer.jupyter.org/github/collindching/Waste-Sorter/blob/master/Waste%20sorter.ipynb)
 
 ### Option (b)
 
