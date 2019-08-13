@@ -1,8 +1,8 @@
 # Waste-Sorter
 
-This was my first attempt at building an image classifier. I used the fastai library in Python to sort different types of trash. The test accuracy higher than I expected it to be (92%), which goes to show that anybody can really do this. Oh, I also wrote a quick [blog post](https://towardsdatascience.com/how-to-build-an-image-classifier-for-waste-sorting-6d11d3c9c478) explaining the process.
+This was my first attempt at building an image classifier using the fastai library, trained to sort different types of trash. The test accuracy was really high, 92%. I also wrote a I wrote a [code walkthrough](https://towardsdatascience.com/how-to-build-an-image-classifier-for-waste-sorting-6d11d3c9c478) on Medium.
 
-All the code for this project is in Waste sorter.ipynb. 
+All the code for this project is in `**Waste sorter.ipynb**`. 
 
 ## How to view this project
 
@@ -20,7 +20,7 @@ The notebook is too big to render on Github, which is why we have to use Jupyter
 
 ## How to run this notebook
 
-1. Download Waste sorter.ipynb
+1. Download `**Waste sorter.ipynb**`
 
 2. Download the corresponding dataset [here](https://github.com/garythung/trashnet/blob/master/data/dataset-resized.zip) and move it to the same directory as the notebook
 
