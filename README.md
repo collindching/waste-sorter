@@ -1,6 +1,6 @@
 # Waste-Sorter
 
-This was my first attempt at building an image classifier using the fastai library, trained to sort different types of trash. The test accuracy was really high, 92%. I also wrote a I wrote a [code walkthrough](https://towardsdatascience.com/how-to-build-an-image-classifier-for-waste-sorting-6d11d3c9c478) on Medium.
+This was my first attempt at building an image classifier using the fastai library, trained to sort different types of trash. The test accuracy was really high, 92%. I also wrote a [code walkthrough](https://towardsdatascience.com/how-to-build-an-image-classifier-for-waste-sorting-6d11d3c9c478) on Medium.
 
 All the code for this project is in **`Waste sorter.ipynb`**. 
 
