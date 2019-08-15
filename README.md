@@ -15,13 +15,10 @@ The notebook is too big to render on Github, which is why we have to use Jupyter
 ### Option (b)
 
 1. Copy the link to the notebook on Github (https://github.com/collindching/Waste-Sorter/blob/master/Waste%20sorter.ipynb)
-
 2. Follow this link [here](https://nbviewer.jupyter.org/) and paste the notebook URL to view the notebook
 
 ## How to run this notebook
 
 1. Download **`Waste sorter.ipynb`**
-
 2. Download the corresponding dataset [here](https://github.com/garythung/trashnet/blob/master/data/dataset-resized.zip) and move it to the same directory as the notebook
-
 3. Run the notebook in Anaconda
